@@ -1,0 +1,17 @@
+,Precalculus,Computing,Calculus I,Discrete,Linear Algebra,Calculus II,Algebra I,Programming,Real Analysis I,Probability & Stats,Numerical Analysis,Real Analysis II,Algebra II,ODE,Optimization,PDE
+Precalculus,0,0,1,1,1,1,0,0,1,1,0,1,0,1,0,1
+Computing,0,0,0,1,1,0,0,1,0,1,1,1,0,0,1,1
+Calculus I,0,0,0,0,1,1,0,0,1,1,1,1,0,1,1,1
+Discrete,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+Linear Algebra,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,1
+Calculus II,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1
+Algebra I,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Programming,0,0,0,0,0,0,0,0,0,1,1,1,0,1,1,1
+Real Analysis I,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1
+Probability & Stats,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Numerical Analysis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Real Analysis II,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Algebra II,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ODE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Optimization,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PDE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
